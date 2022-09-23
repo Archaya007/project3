@@ -1,0 +1,4 @@
+com\example\sp2\controller\BookController.class
+com\example\sp2\Sp2Application.class
+com\example\sp2\entity\Book.class
+com\example\sp2\repository\BookRepository.class
